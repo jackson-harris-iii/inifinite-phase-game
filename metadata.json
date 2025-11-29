@@ -1,0 +1,5 @@
+{
+  "name": "Infinite Phase Rummy",
+  "description": "A Phase 10-style rummy game featuring AI-generated custom phases for endless replayability. Play against bots in this strategic card game.",
+  "requestFramePermissions": []
+}
